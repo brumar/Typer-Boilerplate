@@ -50,7 +50,7 @@ Dont forget to :
 - change informations in the `setup.py`
 - replace "mycli" all over the place with the name of your package.
 
-Windows user, everything is inside the shell scripts, copy and paste will worke.
+Windows user, everything is inside the shell scripts, copy and paste will work.
 Two notes : 
 - ignore the clear command
 - delete the `$@` symbol
